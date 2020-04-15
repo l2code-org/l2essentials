@@ -11,7 +11,7 @@ We will be using the `bash` shell throughout the lessons, because it's available
 ## Setup
 
 Learn how to open a terminal running bash on your platform
-  * On Mac, search for terminal
+  * On Mac, search for `terminal`
   * On Windows, after following instructions above search for `Ubuntu`
   * On Linux, you probably already know
 
@@ -35,3 +35,11 @@ Learn how to open a terminal running bash on your platform
 11) Run `ls` in `~/essentials`
   * you should see `a.txt` and `c.txt`
   * you should not see `first` or `b.txt`
+  
+  
+# git
+
+git is an important tool for every developer. It's how most developers preserve their work and work together. Here are several resources to help you learn the basics of git:
+
+1) Github has a good resource [here](https://guides.github.com/introduction/git-handbook/) covering the basics
+2) There are a couple of interactive tutorials [here](https://www.katacoda.com/courses/git) and [here](https://learngitbranching.js.org/)

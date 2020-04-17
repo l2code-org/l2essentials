@@ -26,15 +26,15 @@ Learn how to open a terminal running bash on your platform
 4) Create a new directory called `first`
 5) Create a new file called `a.txt`
 6) Create a new file in the `first` directory without moving into it called `b.txt`
-  * i.e. the path of the file should be `~/essentials/first/b.txt` and you should still be in `~/essentials`
+   - i.e. the path of the file should be `~/essentials/first/b.txt` and you should still be in `~/essentials`
 7) Move the `a.txt` to `first/a.txt`
 8) Rename the `first/b.txt` file to `first/c.txt`
 9) Move all the files in `~/essentials/first` to `~/essentials`
-  * hint: you will want to use `*`, you can look at [glob - wikipedia](https://en.wikipedia.org/wiki/Glob_(programming))
+   - hint: you will want to use `*`, you can look at [glob - wikipedia](https://en.wikipedia.org/wiki/Glob_(programming))
 10) Remove the `first` directory
 11) Run `ls` in `~/essentials`
-  * you should see `a.txt` and `c.txt`
-  * you should not see `first` or `b.txt`
+    - you should see `a.txt` and `c.txt`
+    - you should not see `first` or `b.txt`
   
   
 # git
